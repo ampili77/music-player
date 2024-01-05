@@ -5,6 +5,7 @@ import os
 
 root = Tk()
 root.geometry("720x480")
+root.resizable(0,0)
 root.title("Music Player")
 
 
